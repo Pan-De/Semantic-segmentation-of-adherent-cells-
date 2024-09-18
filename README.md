@@ -1,4 +1,4 @@
-# Semantic-segmentation-of-adherent-cells-
+# Semantic segmentation of adherent cells and automatic cell counting
 This is designed for cell counting in adherent cell images. <br />
 Input: bright-field cell images.<br />
 Output: cell counts.<br />
