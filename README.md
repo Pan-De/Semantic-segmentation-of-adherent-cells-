@@ -1,7 +1,7 @@
 # Semantic-segmentation-of-adherent-cells-
-This is designed for cell counting in adherent cell images and works with images that are >= 256x256 pixels.
-Input: bright-field cell images
-Output: cell counts
+This is designed for cell counting in adherent cell images.
+# Input: bright-field cell images
+# Output: cell counts
 *It can be used for any image size, as long as the size is no smaller than 256x256 pixels.
 
 Experimental:
