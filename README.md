@@ -1,7 +1,7 @@
 # Semantic-segmentation-of-adherent-cells-
-This is designed for cell counting in adherent cell images.
-Input: bright-field cell images  
-Output: cell counts  
+This is designed for cell counting in adherent cell images. <br />
+Input: bright-field cell images.<br />  
+Output: cell counts.<br />
 *It can be used for any image size, as long as the size is no smaller than 256x256 pixels.
 
 Experimental:  
@@ -14,13 +14,13 @@ Experimental:
 
 Training and cell counting:
 
-1. Semantic segmentation of adherent cells    
-1.1Training: Uses standard U-Net framework   
-1.2Training: Patches of 256x256 from cell images and masks  
+1. Semantic segmentation of adherent cells.    
+1.1Training: Uses standard U-Net framework.   
+1.2Training: Patches of 256x256 from cell images and masks.  
    
-2. Smooth blending of patches for semantic segmentation of large images
+2. Smooth blending of patches for semantic segmentation of large images.
   
-3. Identify each cells using StarDist model (cell counting)
+3. Identify each cells using StarDist model (cell counting).
 ![image](https://github.com/user-attachments/assets/61dcd355-714a-4fed-835b-fca55d7a56f5)
 
 
