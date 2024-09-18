@@ -21,6 +21,7 @@ Training and cell counting:
 2. Smooth blending of patches for semantic segmentation of large images.
   
 3. Identify each cells using StarDist model (cell counting).
-![image](https://github.com/user-attachments/assets/61dcd355-714a-4fed-835b-fca55d7a56f5)
+![image](https://github.com/user-attachments/assets/104c6287-903e-4712-90f6-e0352250c1cf)
+
 
 
