@@ -14,13 +14,13 @@ Experimental:
 
 Training and cell counting:
 
-1. Semantic segmentation of adherent cells.    
-1.1Training: Uses standard U-Net framework.   
-1.2Training: Patches of 256x256 from cell images and masks.  
+1. Semantic segmentation of adherent cells.<br />
+   Training: Use standard U-Net framework.<br />
+   Training: Patches of 256x256 from cell images and masks.<br />
    
 2. Smooth blending of patches for semantic segmentation of large images.
   
-3. Identify each cells using StarDist model (cell counting).
+3. Identify each cell using StarDist model (cell counting).
 ![image](https://github.com/user-attachments/assets/104c6287-903e-4712-90f6-e0352250c1cf)
 
 
